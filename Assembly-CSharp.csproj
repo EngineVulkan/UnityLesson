@@ -61,8 +61,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Lesson\Lesson-1-Clock\Clock.cs" />
-    <Compile Include="Assets\Lesson\Lesson-2-Graph\Graph.cs" />
-    <None Include="Assets\Lesson\Lesson-2-Graph\ColoredShader.shader" />
+    <Compile Include="Assets\Lesson\Lesson-1-Graph\Graph.cs" />
+    <Compile Include="Assets\Lesson\Lesson-1-Mathematical Surfaces\GraphFunction.cs" />
+    <Compile Include="Assets\Lesson\Lesson-1-Mathematical Surfaces\GraphFunctionName.cs" />
+    <None Include="Assets\Lesson\Lesson-1-Graph\ColoredShader.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>E:/Code/UnityProject/Lesson-1-Clock/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

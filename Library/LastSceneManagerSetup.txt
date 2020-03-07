@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lesson/Lesson-1-Graph/Graph.unity
+  isLoaded: 1
+  isActive: 1
